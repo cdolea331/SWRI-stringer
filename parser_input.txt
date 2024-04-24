@@ -1,0 +1,7 @@
+[pppp][wfw][pppp]
+[pp(hh)pp][wfw][pp(hh)pp]
+[pp][l][wfw][l][pp]
+[pppp][lp(hh)(hh)pl][wfw][lp(hh)(hh)pl][pppp]
+[hh][wpw][wfw][wpw][hh]
+[hh][w(pppp)w][wfw][w(pppp)w][hh]
+[p][p][p][p][wfw][p][p][p][p]
